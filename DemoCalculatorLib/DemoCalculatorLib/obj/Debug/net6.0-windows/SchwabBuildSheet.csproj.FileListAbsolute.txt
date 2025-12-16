@@ -1,0 +1,16 @@
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\bin\Debug\net6.0-windows\SchwabBuildSheet.exe
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\bin\Debug\net6.0-windows\SchwabBuildSheet.deps.json
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\bin\Debug\net6.0-windows\SchwabBuildSheet.runtimeconfig.json
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\bin\Debug\net6.0-windows\SchwabBuildSheet.dll
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\bin\Debug\net6.0-windows\ref\SchwabBuildSheet.dll
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\bin\Debug\net6.0-windows\SchwabBuildSheet.pdb
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\net6.0-windows\DemoCalculatorLib.Form1.resources
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\net6.0-windows\SchwabBuildSheet.csproj.GenerateResource.cache
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\net6.0-windows\SchwabBuildSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\net6.0-windows\SchwabBuildSheet.AssemblyInfoInputs.cache
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\net6.0-windows\SchwabBuildSheet.AssemblyInfo.cs
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\net6.0-windows\SchwabBuildSheet.csproj.CoreCompileInputs.cache
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\net6.0-windows\SchwabBuildSheet.dll
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\net6.0-windows\ref\SchwabBuildSheet.dll
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\net6.0-windows\SchwabBuildSheet.pdb
+C:\Users\brenn\OneDrive\___CB Docs\_Repo\CSharp\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\net6.0-windows\SchwabBuildSheet.genruntimeconfig.cache
